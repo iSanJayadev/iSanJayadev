@@ -16,7 +16,7 @@ Here are some ideas to get you started:
      🌺 CUSTOM BANNER (Bright Theme)
 ======================= -->
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" width="100%" />
+  <img width="1536" height="1024" alt="asdfghjkl" src="https://github.com/user-attachments/assets/908cab57-0d26-475e-9159-39cb69f42cf7" />
 </p>
 
 <h1 align="center">✨ नमस्ते, I'm <strong>Sanjay Jayadev</strong> ✨</h1>
@@ -61,6 +61,7 @@ I’m a passionate **programmer** who create software that is elegant, structure
 - Postman • Linux • IntelliJ IDEA  
 
 ---
+
 
 I write software that is structured, testable, scalable — and yes — beautiful ✨
 
