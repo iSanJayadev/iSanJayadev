@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **iSanJayadev/iSanJayadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,125 +13,116 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- =======================
-     🌺 CUSTOM BANNER
+     🌺 CUSTOM BANNER (Bright Theme)
 ======================= -->
 <p align="center">
   <img src="YOUR_BANNER_LINK_HERE" width="100%" />
 </p>
 
-<h1 align="center">🌺 Sanjay Jayadev</h1>
-<h3 align="center">Graduate Engineer Trainee (GET)</h3>
+<h1 align="center">✨ नमस्ते, I'm <strong>Sanjay Jayadev</strong> ✨</h1>
+<h3 align="center">Full‑Stack Developer | Java & Spring Boot | Python | ReactJS | DSA Enthusiast</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Web%20Dev-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-SpringBoot-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ReactJS-Frontend-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-✔️-yellow?style=for-the-badge" />
+</p>
+
+---
+
+# 🌞 About Me
+
+I’m a passionate **programmer** who create software that is elegant, structured, and scalable.
+
+✅ Strong in **DSA** (arrays, DP, graphs, trees, recursion)  
+✅ Skilled in **Java, Spring Boot, ReactJS, Node.js**  
+✅ Love building **clean and modular Full-stack** systems  
+✅ Enthusiastic about **System design principles**
+
+---
+
+# 🧠 Tech Stack
+
+### 🚀 *Languages*
+- Java • Python • JavaScript
+
+### 🏗️ *Backend*
+- **Spring Boot**, Node.js
+
+### 🎨 *Frontend*
+- **ReactJS**, HTML5, CSS3
+
+### 🗄️ *Databases*
+- MySQL • PostgreSQL
+
+### 🛠️ *Tools & Platforms*
+- Git • GitHub • VSCodium/VS Code  
+- Postman • Linux • IntelliJ IDEA  
+
+---
+
+I write software that is structured, testable, scalable — and yes — beautiful ✨
+
+---
+
+# 📚 My Projects
+
+### 🔥 **1. DSA Solutions Repository**
+Deep dive into algorithms with optimized solutions.  
+📎 **Repo:** *Add your link here*
+
+---
+
+### 🌐 **2. Full‑Stack App (React + Spring Boot)**
+A production‑style full‑stack application with REST APIs, JWT Auth & responsive UI.  
+📎 **Repo:** *Add your link here*
+
+---
+
+### ⚙️ **3. Spring Boot API Project**
+Clean architecture, layered services, proper DTOs, mappers, everything elegant.  
+📎 **Repo:** *Add your link here*
+
+---
+
+### 🎨 **4. ReactJS Frontend Project**
+Modern responsive UI with reusable components inspired by Indian geometric art.  
+📎 **Repo:** *Add your link here*
+
+---
+
+# 📊 GitHub Stats & Activity
 
 <div align="center">
 
-🌞  
-<strong>“Craftsmanship is devotion — whether carved in stone or crafted in code.”</strong>
+<img src="https://github-readme-stats.vercel.app/api?username=iSanJayadev&show_icons=true&theme=highcontrast&hide_border=true" height="160px" />
 
-Inspired by the symmetry of mandalas, the layered geometry of Indian temple architecture,  
-and the precision of modern engineering.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSanJayadev&layout=compact&theme=highcontrast&hide_border=true" height="160px" />
+
+<img src="https://streak-stats.demolab.com/?user=iSanJayadev&theme=highcontrast&hide_border=true" height="180px" />
 
 </div>
 
 ---
 
-## 🏛️ About Me
+# 🎯 Fun & Interactive Stuff
 
-I am a passionate engineer fascinated by structure — both in architecture and in software.  
-I aim to build systems that are elegant, scalable, and timeless.
-
-- 🎓 Graduate Engineer Trainee  
-- 💼 Passionate about Software Development & System Design  
-- 🌆 Based in Bengaluru  
-- 🧠 Precision‑focused · Curious · Design‑driven  
+### ✅ *Let's Connect*
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge" /></a>
+</p>
 
 ---
 
-## 🧭 My Engineering Philosophy
-
-Just as ancient Indian architecture follows *vastu*, symmetry, and sacred geometry,  
-I believe great software follows:
-
-✅ Strong architectural foundations  
-✅ Clean, modular structure  
-✅ Reusability  
-✅ Balance between logic & creativity  
-
----
-
-## 🌸 Technical Skills
-
-### **Languages**
-- Java  
-- Python  
-- JavaScript  
-- TypeScript  
-
-### **Frameworks & Tools**
-- ReactJS  
-- Node.js  
-- Express  
-- Git & GitHub  
-- VS Code / VSCodium  
-
-### **Core Concepts**
-- Data Structures & Algorithms  
-- REST APIs  
-- OOP  
-- Optimization & Debugging  
-- Software Design Patterns  
-
----
-
-## 🕌 Featured Projects
-
-### ✨ **Dynamic UI System**  
-Crafted with structured layouts inspired by Indian geometric precision.
-
-### ✨ **API Architecture Model**  
-Layered and organized like a traditional gopuram — ascending in logic and clarity.
-
-### ✨ **Automation Toolkit**  
-Behind‑the‑scenes scripts as intricate as temple carvings — unseen yet essential.
-
----
-
-## 🎨 Design Elements I Love
-
-- **Mandalas** → modular architecture  
-- **Jali patterns** → reusable components  
-- **Temple corridors** → layered systems  
-- **Arches & motifs** → UI elegance  
-
----
-
-# 📊 GitHub Stats
+# 🙏 Final Words
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=iSanJayadev&show_icons=true&theme=tokyonight&hide_border=true" />
+✨ **Thank you for stopping by!**  
+May your journey be filled with knowledge, inspiration, and beautiful code.  
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSanJayadev&layout=compact&theme=tokyonight&hide_border=true" />
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=iSanJayadev&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔗 Connect With Me
-
-- 🌐 Portfolio (Coming Soon)  
-- 💼 LinkedIn: *Add your link*  
-- 📧 Email: *Add your email*  
-
----
-
-<div align="center">
-
-🌺 <strong>Thank you for visiting!</strong>  
-May your ideas flourish and your code stay beautiful.
+🌺 *"Code like a craftsman. Build like an architect."*  
 
 </div>
