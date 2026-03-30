@@ -16,9 +16,7 @@ Here are some ideas to get you started:
      🌺 CUSTOM BANNER (Bright Theme)
 ======================= -->
 <p align="center">
-     <img width="100%" alt="Designer (2)" src="https://github.com/user-attachments/assets/31f05bf6-5a7e-48b5-aa29-932658d38d79" />
-
-
+     <img width="100%" src="https://github.com/user-attachments/assets/81997185-9f90-46ee-b853-20ad49acec26" />
 
 </p>
 <h1 align="center">✨ नमस्ते, I'm <strong>Sanjay Jayadev</strong> ✨</h1>
