@@ -97,11 +97,11 @@ Modern responsive UI with reusable components inspired by Indian geometric art.
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=iSanJayadev&show_icons=true&theme=highcontrast&hide_border=true
+<img src="https://github-readme-stats.vercel.app/api?username=iSanJayadev&show_icons=true&theme=highcontrast&hide_border=true">
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=iSanJayadev&layout=compact&theme=highcontrast&hide_border=true
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iSanJayadev&layout=compact&theme=highcontrast&hide_border=true">
 
-https://streak-stats.demolab.com?user=iSanJayadev&theme=highcontrast&hide_border=true
+<img src="https://streak-stats.demolab.com?user=iSanJayadev&theme=highcontrast&hide_border=true">
 
 </div>
 
